@@ -169,6 +169,8 @@ Si quieres visualizar los ejemplos(imagenes + documentos de información adicion
 | **Sara Cárcamo**          | 📧 [sara.carcamo.r@gmail.com](mailto:sara.carcamo.r@gmail.com) | [🔗 Perfil](https://www.linkedin.com/in/saracarcamo/) | [💻 SCaRreC](https://github.com/SCaRreC) |
 | **Sofía Gabián**         | 📧 [sofiagabian80@gmail.com](mailto:sofiagabian80@gmail.com) | [🔗 Perfil](https://www.linkedin.com/in/sof%C3%ADa-gabi%C3%A1n-dom%C3%ADnguez/) | [💻 chofas80](https://github.com/chofas80) |
 
+## Licencia
+Este proyecto está bajo la [Licencia MIT](./LICENSE).
 
 
 >Gracias por visitar este repositorio y dedicar tu tiempo a conocer nuestro trabajo.  
